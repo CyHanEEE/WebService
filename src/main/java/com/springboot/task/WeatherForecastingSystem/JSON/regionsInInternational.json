@@ -1,0 +1,689 @@
+[{
+  "regionName" : "阿尔及利亚",
+  "regionID" : "3320",
+  "cities" : [ {
+    "cityName" : "阿尔及尔",
+    "cityID" : "2606"
+  } ]
+}, {
+  "regionName" : "阿根廷",
+  "regionID" : "3522",
+  "cities" : [ {
+    "cityName" : "布宜诺斯艾利斯",
+    "cityID" : "3316"
+  } ]
+}, {
+  "regionName" : "阿曼",
+  "regionID" : "3170",
+  "cities" : [ {
+    "cityName" : "无城市",
+    "cityID" : "000000"
+} ]
+}, {
+"regionName" : "阿塞拜疆",
+"regionID" : "3176",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "埃及",
+"regionID" : "3317",
+"cities" : [ {
+"cityName" : "开罗",
+"cityID" : "2728"
+} ]
+}, {
+"regionName" : "埃塞俄比亚",
+"regionID" : "3314",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "爱尔兰",
+"regionID" : "3246",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "奥地利",
+"regionID" : "3237",
+"cities" : [ {
+"cityName" : "维也纳",
+"cityID" : "2553"
+} ]
+}, {
+"regionName" : "澳大利亚",
+"regionID" : "368",
+"cities" : [ {
+"cityName" : "阿德莱德",
+"cityID" : "3211"
+}, {
+"cityName" : "布里斯班",
+"cityID" : "3188"
+}, {
+"cityName" : "墨尔本",
+"cityID" : "3520"
+}, {
+"cityName" : "珀斯",
+"cityID" : "3193"
+}, {
+"cityName" : "悉尼",
+"cityID" : "3233"
+} ]
+}, {
+"regionName" : "巴基斯坦",
+"regionID" : "3169",
+"cities" : [ {
+"cityName" : "白沙瓦",
+"cityID" : "2657"
+}, {
+"cityName" : "卡拉奇",
+"cityID" : "2685"
+}, {
+"cityName" : "伊斯兰堡",
+"cityID" : "2663"
+} ]
+}, {
+"regionName" : "巴西",
+"regionID" : "3580",
+"cities" : [ {
+"cityName" : "里约热内卢",
+"cityID" : "3378"
+}, {
+"cityName" : "圣保罗",
+"cityID" : "3381"
+} ]
+}, {
+"regionName" : "保加利亚",
+"regionID" : "3232",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "比利时",
+"regionID" : "3243",
+"cities" : [ {
+"cityName" : "布鲁塞尔",
+"cityID" : "2524"
+} ]
+}, {
+"regionName" : "波兰",
+"regionID" : "3235",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "朝鲜",
+"regionID" : "3163",
+"cities" : [ {
+"cityName" : "平壤",
+"cityID" : "2697"
+} ]
+}, {
+"regionName" : "丹麦",
+"regionID" : "3245",
+"cities" : [ {
+"cityName" : "哥本哈根",
+"cityID" : "2515"
+} ]
+}, {
+"regionName" : "德国",
+"regionID" : "3238",
+"cities" : [ {
+"cityName" : "柏林",
+"cityID" : "2547"
+}, {
+"cityName" : "法兰克福",
+"cityID" : "2549"
+}, {
+"cityName" : "汉堡",
+"cityID" : "2546"
+} ]
+}, {
+"regionName" : "俄罗斯",
+"regionID" : "3225",
+"cities" : [ {
+"cityName" : "莫斯科",
+"cityID" : "2741"
+} ]
+}, {
+"regionName" : "法国",
+"regionID" : "3241",
+"cities" : [ {
+"cityName" : "巴黎",
+"cityID" : "2531"
+}, {
+"cityName" : "马赛",
+"cityID" : "2532"
+} ]
+}, {
+"regionName" : "菲律宾",
+"regionID" : "3151",
+"cities" : [ {
+"cityName" : "马尼拉",
+"cityID" : "3175"
+} ]
+}, {
+"regionName" : "芬兰",
+"regionID" : "3248",
+"cities" : [ {
+"cityName" : "赫尔辛基－万塔",
+"cityID" : "2495"
+} ]
+}, {
+"regionName" : "刚果（金）",
+"regionID" : "3377",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "哥伦比亚",
+"regionID" : "3524",
+"cities" : [ {
+"cityName" : "波哥大",
+"cityID" : "2917"
+} ]
+}, {
+"regionName" : "古巴",
+"regionID" : "344",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "韩国",
+"regionID" : "3162",
+"cities" : [ {
+"cityName" : "釜山",
+"cityID" : "2714"
+}, {
+"cityName" : "首尔",
+"cityID" : "2706"
+} ]
+}, {
+"regionName" : "荷兰",
+"regionID" : "3244",
+"cities" : [ {
+"cityName" : "阿姆斯特丹",
+"cityID" : "2516"
+} ]
+}, {
+"regionName" : "加拿大",
+"regionID" : "347",
+"cities" : [ {
+"cityName" : "多伦多",
+"cityID" : "3317"
+}, {
+"cityName" : "卡尔加里",
+"cityID" : "3519"
+}, {
+"cityName" : "魁北克",
+"cityID" : "3324"
+}, {
+"cityName" : "蒙特利尔",
+"cityID" : "3318"
+}, {
+"cityName" : "圣约翰",
+"cityID" : "3332"
+}, {
+"cityName" : "温哥华",
+"cityID" : "3348"
+}, {
+"cityName" : "渥太华",
+"cityID" : "3319"
+} ]
+}, {
+"regionName" : "加纳",
+"regionID" : "3313",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "柬埔寨",
+"regionID" : "3154",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "捷克",
+"regionID" : "3236",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "克罗地亚",
+"regionID" : "3233",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "肯尼亚",
+"regionID" : "3316",
+"cities" : [ {
+"cityName" : "内罗毕",
+"cityID" : "2859"
+} ]
+}, {
+"regionName" : "拉托维亚",
+"regionID" : "3228",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "老挝",
+"regionID" : "3155",
+"cities" : [ {
+"cityName" : "万象",
+"cityID" : "2866"
+} ]
+}, {
+"regionName" : "立陶宛",
+"regionID" : "3227",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "马达加斯加",
+"regionID" : "3312",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "马尔代夫",
+"regionID" : "3166",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "马来西亚",
+"regionID" : "3158",
+"cities" : [ {
+"cityName" : "吉隆坡",
+"cityID" : "2846"
+} ]
+}, {
+"regionName" : "马里",
+"regionID" : "3319",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "美国",
+"regionID" : "346",
+"cities" : [ {
+"cityName" : "奥兰多",
+"cityID" : "2922"
+}, {
+"cityName" : "波士顿",
+"cityID" : "3026"
+}, {
+"cityName" : "华盛顿特区",
+"cityID" : "3517"
+}, {
+"cityName" : "火奴鲁鲁",
+"cityID" : "3518"
+}, {
+"cityName" : "拉斯维加斯",
+"cityID" : "2984"
+}, {
+"cityName" : "洛杉矶",
+"cityID" : "2955"
+}, {
+"cityName" : "迈阿密",
+"cityID" : "2920"
+}, {
+"cityName" : "纽约",
+"cityID" : "3023"
+}, {
+"cityName" : "圣弗朗西斯科",
+"cityID" : "3020"
+}, {
+"cityName" : "西雅图",
+"cityID" : "3094"
+}, {
+"cityName" : "休斯敦",
+"cityID" : "2937"
+}, {
+"cityName" : "亚特兰大",
+"cityID" : "2929"
+}, {
+"cityName" : "芝加哥",
+"cityID" : "3042"
+}, {
+"cityName" : "丹佛",
+"cityID" : "3057"
+}, {
+"cityName" : "查尔斯顿",
+"cityID" : "2925"
+} ]
+}, {
+"regionName" : "蒙古",
+"regionID" : "3165",
+"cities" : [ {
+"cityName" : "乌兰巴托",
+"cityID" : "2877"
+} ]
+}, {
+"regionName" : "秘鲁",
+"regionID" : "3578",
+"cities" : [ {
+"cityName" : "利马",
+"cityID" : "3072"
+} ]
+}, {
+"regionName" : "缅甸",
+"regionID" : "3160",
+"cities" : [ {
+"cityName" : "仰光",
+"cityID" : "2786"
+} ]
+}, {
+"regionName" : "莫桑比克",
+"regionID" : "3311",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "墨西哥",
+"regionID" : "345",
+"cities" : [ {
+"cityName" : "墨西哥城",
+"cityID" : "3064"
+} ]
+}, {
+"regionName" : "南非",
+"regionID" : "3310",
+"cities" : [ {
+"cityName" : "开普敦",
+"cityID" : "3083"
+}, {
+"cityName" : "约翰尼斯堡",
+"cityID" : "2969"
+} ]
+}, {
+"regionName" : "尼泊尔",
+"regionID" : "3164",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "尼日利亚",
+"regionID" : "3379",
+"cities" : [ {
+"cityName" : "拉各斯",
+"cityID" : "3101"
+} ]
+}, {
+"regionName" : "挪威",
+"regionID" : "3250",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "葡萄牙",
+"regionID" : "3239",
+"cities" : [ {
+"cityName" : "里斯本",
+"cityID" : "2539"
+} ]
+}, {
+"regionName" : "日本",
+"regionID" : "3161",
+"cities" : [ {
+"cityName" : "大阪",
+"cityID" : "2760"
+}, {
+"cityName" : "东京",
+"cityID" : "2749"
+}, {
+"cityName" : "福冈",
+"cityID" : "2766"
+}, {
+"cityName" : "京都",
+"cityID" : "2758"
+}, {
+"cityName" : "札幌",
+"cityID" : "2730"
+} ]
+}, {
+"regionName" : "瑞典",
+"regionID" : "3249",
+"cities" : [ {
+"cityName" : "斯德哥尔摩",
+"cityID" : "2487"
+} ]
+}, {
+"regionName" : "瑞士",
+"regionID" : "3242",
+"cities" : [ {
+"cityName" : "日内瓦",
+"cityID" : "2529"
+}, {
+"cityName" : "苏黎世",
+"cityID" : "2528"
+} ]
+}, {
+"regionName" : "塞内加尔",
+"regionID" : "3318",
+"cities" : [ {
+"cityName" : "达喀尔",
+"cityID" : "2668"
+} ]
+}, {
+"regionName" : "沙特阿拉伯",
+"regionID" : "3172",
+"cities" : [ {
+"cityName" : "利雅得",
+"cityID" : "2608"
+} ]
+}, {
+"regionName" : "斯里兰卡",
+"regionID" : "3167",
+"cities" : [ {
+"cityName" : "科伦坡",
+"cityID" : "2827"
+} ]
+}, {
+"regionName" : "泰国",
+"regionID" : "3159",
+"cities" : [ {
+"cityName" : "曼谷",
+"cityID" : "2820"
+} ]
+}, {
+"regionName" : "坦桑尼亚",
+"regionID" : "3315",
+"cities" : [ {
+"cityName" : "达累斯萨拉姆",
+"cityID" : "2871"
+} ]
+}, {
+"regionName" : "突尼斯",
+"regionID" : "3321",
+"cities" : [ {
+"cityName" : "突尼斯",
+"cityID" : "2614"
+} ]
+}, {
+"regionName" : "土耳其",
+"regionID" : "3229",
+"cities" : [ {
+"cityName" : "伊斯坦布尔",
+"cityID" : "2690"
+} ]
+}, {
+"regionName" : "委内瑞拉",
+"regionID" : "342",
+"cities" : [ {
+"cityName" : "加拉加斯",
+"cityID" : "2980"
+} ]
+}, {
+"regionName" : "文莱",
+"regionID" : "3153",
+"cities" : [ {
+"cityName" : "斯里巴加湾",
+"cityID" : "2972"
+} ]
+}, {
+"regionName" : "乌克兰",
+"regionID" : "3226",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "乌兹别克斯坦",
+"regionID" : "3175",
+"cities" : [ {
+"cityName" : "塔什干",
+"cityID" : "2809"
+} ]
+}, {
+"regionName" : "西班牙",
+"regionID" : "3240",
+"cities" : [ {
+"cityName" : "巴塞罗那",
+"cityID" : "2533"
+}, {
+"cityName" : "马德里",
+"cityID" : "2534"
+} ]
+}, {
+"regionName" : "希腊",
+"regionID" : "3230",
+"cities" : [ {
+"cityName" : "雅典",
+"cityID" : "3521"
+} ]
+}, {
+"regionName" : "新加坡",
+"regionID" : "3157",
+"cities" : [ {
+"cityName" : "新加坡",
+"cityID" : "2853"
+} ]
+}, {
+"regionName" : "新西兰",
+"regionID" : "369",
+"cities" : [ {
+"cityName" : "奥克兰",
+"cityID" : "3104"
+}, {
+"cityName" : "惠灵顿",
+"cityID" : "3110"
+}, {
+"cityName" : "克莱斯特彻奇",
+"cityID" : "3115"
+} ]
+}, {
+"regionName" : "匈牙利",
+"regionID" : "3234",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "叙利亚",
+"regionID" : "3174",
+"cities" : [ {
+"cityName" : "大马士革",
+"cityID" : "2598"
+} ]
+}, {
+"regionName" : "牙买加",
+"regionID" : "343",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "伊朗",
+"regionID" : "3171",
+"cities" : [ {
+"cityName" : "德黑兰",
+"cityID" : "2617"
+} ]
+}, {
+"regionName" : "意大利",
+"regionID" : "3231",
+"cities" : [ {
+"cityName" : "罗马",
+"cityID" : "2634"
+}, {
+"cityName" : "米兰",
+"cityID" : "2628"
+} ]
+}, {
+"regionName" : "印度",
+"regionID" : "3168",
+"cities" : [ {
+"cityName" : "孟买",
+"cityID" : "2785"
+}, {
+"cityName" : "斯利那加",
+"cityID" : "2704"
+}, {
+"cityName" : "新德里",
+"cityID" : "2721"
+} ]
+}, {
+"regionName" : "印度尼西亚",
+"regionID" : "3152",
+"cities" : [ {
+"cityName" : "雅加达",
+"cityID" : "3093"
+} ]
+}, {
+"regionName" : "英国",
+"regionID" : "3247",
+"cities" : [ {
+"cityName" : "爱丁堡",
+"cityID" : "2497"
+}, {
+"cityName" : "伦敦",
+"cityID" : "2503"
+}, {
+"cityName" : "曼彻斯特",
+"cityID" : "2500"
+} ]
+}, {
+"regionName" : "约旦",
+"regionID" : "3173",
+"cities" : [ {
+"cityName" : "无城市",
+"cityID" : "000000"
+} ]
+}, {
+"regionName" : "越南",
+"regionID" : "3156",
+"cities" : [ {
+"cityName" : "河内",
+"cityID" : "2861"
+} ]
+}, {
+"regionName" : "智利",
+"regionID" : "3523",
+"cities" : [ {
+"cityName" : "圣地亚哥",
+"cityID" : "3109"
+} ]
+} ]
